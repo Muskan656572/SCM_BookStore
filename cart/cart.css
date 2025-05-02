@@ -204,7 +204,7 @@
   padding: 8px 20px;
   font-size: 14px;
   background-color: var(--light-color);
-  color: white;
+  color: black;
   border: 1px solid var(--green);
   border-radius: 5px;
   cursor: pointer;
